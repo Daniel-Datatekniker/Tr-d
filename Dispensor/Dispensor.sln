@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispensor", "Dispensor\Dispensor.csproj", "{0F4EB3F0-780C-4CFD-A49C-9F3F6A35EA79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F4EB3F0-780C-4CFD-A49C-9F3F6A35EA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4EB3F0-780C-4CFD-A49C-9F3F6A35EA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4EB3F0-780C-4CFD-A49C-9F3F6A35EA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4EB3F0-780C-4CFD-A49C-9F3F6A35EA79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB412B5C-F4CB-4BEB-88FA-12485D26ACA1}
+	EndGlobalSection
+EndGlobal
